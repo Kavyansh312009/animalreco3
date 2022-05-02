@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+}
+.header_div{
+    background-color:aliceblue ;
+    color: rgb(211, 6, 6);
+    font-family:'Gluten', cursive;
+    
+}
+.header_div p{
+    font-family: 'Gluten', cursive;
+    color: grey;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-weight: bold; 
+}
+.main_div button{
+    font-family: 'Gluten', cursive;
+    font-weight: bolder;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    width: 100px;
+}
+.footer{
+    position: fixed;
+    color:rgb(0, 123, 255);
+    bottom: 0;
+    font-size: 20px;
+    width: 100%;
+    background-color: rgb(210, 231, 232);
+    line-height: 2;
+    text-shadow: 3px 1px 1px rgb(0, 183, 255);
+}
+.btn-warning{
+    width: 100px;
+    height: 40px;
+}
